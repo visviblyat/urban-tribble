@@ -1,0 +1,55 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\frozendict-2.4.2-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/frozendict-2.4.2.dist-info/INSTALLER",
+    "Lib/site-packages/frozendict-2.4.2.dist-info/LICENSE.txt",
+    "Lib/site-packages/frozendict-2.4.2.dist-info/METADATA",
+    "Lib/site-packages/frozendict-2.4.2.dist-info/RECORD",
+    "Lib/site-packages/frozendict-2.4.2.dist-info/REQUESTED",
+    "Lib/site-packages/frozendict-2.4.2.dist-info/WHEEL",
+    "Lib/site-packages/frozendict-2.4.2.dist-info/direct_url.json",
+    "Lib/site-packages/frozendict-2.4.2.dist-info/top_level.txt",
+    "Lib/site-packages/frozendict/__init__.py",
+    "Lib/site-packages/frozendict/__init__.pyi",
+    "Lib/site-packages/frozendict/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/frozendict/__pycache__/_frozendict_py.cpython-312.pyc",
+    "Lib/site-packages/frozendict/__pycache__/cool.cpython-312.pyc",
+    "Lib/site-packages/frozendict/__pycache__/core.cpython-312.pyc",
+    "Lib/site-packages/frozendict/__pycache__/monkeypatch.cpython-312.pyc",
+    "Lib/site-packages/frozendict/__pycache__/version.cpython-312.pyc",
+    "Lib/site-packages/frozendict/_frozendict_py.py",
+    "Lib/site-packages/frozendict/cool.py",
+    "Lib/site-packages/frozendict/core.py",
+    "Lib/site-packages/frozendict/monkeypatch.py",
+    "Lib/site-packages/frozendict/py.typed",
+    "Lib/site-packages/frozendict/version.py",
+    ".nonadmin"
+  ],
+  "fn": "frozendict-2.4.2-py312haa95532_0.conda",
+  "license": "LGPL-3.0-only",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\frozendict-2.4.2-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "9e30e114fcb045c7ca538f37950d5120",
+  "name": "frozendict",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\frozendict-2.4.2-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::frozendict==2.4.2=py312haa95532_0[md5=9e30e114fcb045c7ca538f37950d5120]",
+  "sha256": "9037d35075f14c3c4d24f5baab7a1978c442f669d2f5809e1b3775f22b31ec93",
+  "size": 38495,
+  "subdir": "win-64",
+  "timestamp": 1713195176000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/frozendict-2.4.2-py312haa95532_0.conda",
+  "version": "2.4.2"
+}

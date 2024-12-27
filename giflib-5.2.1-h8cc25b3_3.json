@@ -1,0 +1,57 @@
+{
+  "build": "h8cc25b3_3",
+  "build_number": 3,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\giflib-5.2.1-h8cc25b3_3",
+  "files": [
+    "Library/bin/gif-7.dll",
+    "Library/bin/gif2rgb.exe",
+    "Library/bin/gifbuild.exe",
+    "Library/bin/gifclrmp.exe",
+    "Library/bin/giffix.exe",
+    "Library/bin/giftext.exe",
+    "Library/bin/giftool.exe",
+    "Library/include/gif_lib.h",
+    "Library/include/stdbool.h",
+    "Library/lib/gif.lib",
+    "Library/share/man/man1/gif2rgb.1",
+    "Library/share/man/man1/gifbg.1",
+    "Library/share/man/man1/gifbuild.1",
+    "Library/share/man/man1/gifclrmp.1",
+    "Library/share/man/man1/gifcolor.1",
+    "Library/share/man/man1/gifecho.1",
+    "Library/share/man/man1/giffix.1",
+    "Library/share/man/man1/gifhisto.1",
+    "Library/share/man/man1/gifinto.1",
+    "Library/share/man/man1/giflib.1",
+    "Library/share/man/man1/giftext.1",
+    "Library/share/man/man1/giftool.1",
+    "Library/share/man/man1/gifwedge.1",
+    ".nonadmin"
+  ],
+  "fn": "giflib-5.2.1-h8cc25b3_3.conda",
+  "license": "MIT",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\giflib-5.2.1-h8cc25b3_3",
+    "type": 1
+  },
+  "md5": "19a68ffd8034087e8b8fcfc0ccd0db51",
+  "name": "giflib",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\giflib-5.2.1-h8cc25b3_3.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::giflib==5.2.1=h8cc25b3_3[md5=19a68ffd8034087e8b8fcfc0ccd0db51]",
+  "sha256": "acc87d2da9847a1e2eeb455cc0f07c8f1141685c1a573fe80285e7cce0939467",
+  "size": 89885,
+  "subdir": "win-64",
+  "timestamp": 1676983264000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/giflib-5.2.1-h8cc25b3_3.conda",
+  "version": "5.2.1"
+}
